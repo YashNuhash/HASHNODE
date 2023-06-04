@@ -7,6 +7,9 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/8muUTAmcWU4/up
 tags: blogging, web-development, beginners, blogswithcc, wemakedevs
 
 ---
+![image](https://github.com/YashNuhash/HASHNODE/assets/106915718/8092c622-17ca-4985-bb3f-92a295b3d2bb)
+
+# Some Books that Every Programmer Should Read
 
 Many people may think that if you want to learn to program, you have to read a book or two and learn a programming language. For those just starting, it's fine. But you should know that to improve in this profession you need to read a lot of books. Programmers in our country are not as interested in coding as they are in reading and learning. And so their career ends in a short time.
 
